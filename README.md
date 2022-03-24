@@ -14,3 +14,4 @@
 ### DBManager: Criação e preenchimento das tabelas do Database
 ### App.py: Aplicação Web com endpoints e funções de busca no banco de dados. A implementação da lista invertida e da Levenshtein distance se encontram nesse arquivo
 ### nlp_search: Pasta com arquivos da página web em React
+### SQL.db: Database 
